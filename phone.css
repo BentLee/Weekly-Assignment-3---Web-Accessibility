@@ -1,0 +1,10 @@
+/* make all buttons 20 by 20 pixels with white text and green background and a 10 pixel margin */
+#idName { width: 50px; height: 50px; background: green; color: white; margin: 10px; }
+
+/* make all tags with the "cool" class name have blue text */
+#tab_bar { width: 100px; height: 100px; color: blue; }
+
+/* make the button with ID "delete" red */
+#delete { width: 75px; height: 50px; background: red; }
+
+.hidden { visibility: hidden; }
